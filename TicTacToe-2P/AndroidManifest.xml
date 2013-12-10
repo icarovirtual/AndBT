@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.game.tictactoe"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    
+    
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="app.game.tictactoe.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="app.game.tictactoe.BoardActivity"
+            android:label="@string/title_activity_board" >
+        </activity>
+        <activity
+            android:name="app.game.tictactoe.OnlineActivity"
+            android:label="@string/title_activity_online" >
+        </activity>
+        <activity
+            android:name="app.game.tictactoe.BluetoothActivity"
+            android:label="@string/title_activity_bluetooth" >
+        </activity>
+        <activity
+            android:name="br.pucrs.tcii.activities.DeviceListActivity"
+            android:configChanges="orientation|keyboardHidden" >
+        </activity>
+    </application>
+
+</manifest>

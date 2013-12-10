@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndBT-Benchmark</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_server">BT Server</string>
+    <string name="label_client">BT Client</string>
+    <string name="but_server">SERVER</string>
+    <string name="but_client">CLIENT</string>
+    <string name="but_realtime_100">100ms</string>
+    <string name="but_realtime_50">50ms</string>
+    <string name="but_realtime_10">10ms</string>
+    <string name="but_realtime_class">Class</string>
+    <string name="but_realtime_array">Array</string>
+    <string name="but_realtime_none">None</string>
+    <string name="label_realtime_delay">Realtime delay</string>
+    <string name="label_send_data">Send data</string>
+    <string name="label_bt_state">Bluetooth</string>
+    <string name="but_bt_state">Turn off</string>
+    <string name="but_bt_discov">Visible</string>
+    <string name="but_bt_device">Device\nList</string>
+    <string name="but_realtime_stop">Stop</string>
+    <string name="label_serial">Serialization</string>
+    <string name="but_serial_class">Class</string>
+    <string name="but_serial_array">Array</string>
+
+</resources>

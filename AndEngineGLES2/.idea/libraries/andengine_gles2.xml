@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="andengine-gles2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/andengine-gles2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
