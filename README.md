@@ -16,7 +16,13 @@ TicTacToe-2P             | Classical TicTacToe game with 2 players
 UntitledRealtimeGame     | Test app that supports real-time communication
 AndEngineGLES2           | Clone of https://github.com/nicolasgramlich/AndEngine
 
-Next features
+Getting Started
+=====
+1. Clone this repo
+2. Add reference to AndBT into your project
+3. ...TODO...
+
+Next Features
 =====
  - Unsecure communication
  - Data fragmentation
@@ -25,3 +31,7 @@ Next features
 Demos
 =====
 TODO embed youtube videos of apps running
+
+License
+=====
+TODO
