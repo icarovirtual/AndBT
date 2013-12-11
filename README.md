@@ -30,7 +30,11 @@ Next Features
 
 Demos
 =====
-TODO embed youtube videos of apps running
+Click in the image to see the video:
+
+[![Bluetooth Chat](http://img.youtube.com/vi/SVAfCCqVnDk/0.jpg)](http://www.youtube.com/watch?v=SVAfCCqVnDk)
+[![RealTime app](http://img.youtube.com/vi/knwv7-s8yRI/0.jpg)](http://www.youtube.com/watch?v=knwv7-s8yRI)
+[![TicTacToe](http://img.youtube.com/vi/_rO5yC_9TmU/0.jpg)](http://www.youtube.com/watch?v=_rO5yC_9TmU)
 
 License
 =====
